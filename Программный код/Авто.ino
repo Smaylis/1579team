@@ -13,7 +13,7 @@ void go(int L,int R){
   analogWrite(6, abs(R));
 }
 
-}
+
 
 void loop()
 {
